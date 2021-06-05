@@ -1,0 +1,29 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "Users": [
+    {
+      "id": "1",
+      "name": "Ani mohanty",
+      "email": "ani@mohanty.com",
+      "address": "Pune"
+    },
+    {
+      "id": "2",
+      "name": "Peter mohanty",
+      "email": "ani@mohanty.com",
+      "address": "USA"
+    },
+    {
+      "name": "tony",
+      "email": "tony@stark.com",
+      "address": "USA",
+      "id": "PLwUipJ"
+    }
+  ]
+}
